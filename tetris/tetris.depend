@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515378501 source:c:\users\kien\desktop\c++ stuff\tetris\main.cpp
+	<iostream>
+	<Windows.h>
+	<time.h>
+	<vector>
+	<cwchar>
+	<stdio.h>
+
